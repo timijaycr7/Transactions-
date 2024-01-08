@@ -1,3 +1,3 @@
-# Transactions
+# Transaction Data
 
-## This is a transactions data
+## This is just to collect transactions data using API_key
